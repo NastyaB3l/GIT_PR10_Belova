@@ -1,0 +1,8 @@
+name: MyAction 
+on: workflow_dispatch   
+jobs:
+    NameJob:
+        runs-on: windows-latest    
+        steps:
+            - name: Run application
+              run: dotnet run --project ./MyConsoleApp.csproj

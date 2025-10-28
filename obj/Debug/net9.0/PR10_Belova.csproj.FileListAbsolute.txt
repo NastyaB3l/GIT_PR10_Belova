@@ -1,0 +1,14 @@
+D:\Belova\Git\PR10_Belova\bin\Debug\net9.0\PR10_Belova.exe
+D:\Belova\Git\PR10_Belova\bin\Debug\net9.0\PR10_Belova.deps.json
+D:\Belova\Git\PR10_Belova\bin\Debug\net9.0\PR10_Belova.runtimeconfig.json
+D:\Belova\Git\PR10_Belova\bin\Debug\net9.0\PR10_Belova.dll
+D:\Belova\Git\PR10_Belova\bin\Debug\net9.0\PR10_Belova.pdb
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.AssemblyInfoInputs.cache
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.AssemblyInfo.cs
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.csproj.CoreCompileInputs.cache
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.dll
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\refint\PR10_Belova.dll
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.pdb
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\PR10_Belova.genruntimeconfig.cache
+D:\Belova\Git\PR10_Belova\obj\Debug\net9.0\ref\PR10_Belova.dll

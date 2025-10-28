@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PR10_Belova/1.0.0": {
+        "runtime": {
+          "PR10_Belova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PR10_Belova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
